@@ -11,10 +11,10 @@
 	'site'      =>'https://besthack.newpage.xyz'
 	);
 	$mail_config=array(
-        'smtp_username' => 'grishaes@mail.ru',
-        'sender_name'	=> 'grishaes@mail.ru',
+        'smtp_username' => 'mail@mail.ru',
+        'sender_name'	=> 'mail@mail.ru',
         'smtp_port'     => '465',
         'smtp_host'     => 'ssl://smtp.mail.ru',
-        'smtp_password' => '1230022zX',
+        'smtp_password' => 'pass',
 	);
 ?>
