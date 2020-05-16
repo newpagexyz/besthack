@@ -25,4 +25,9 @@ https://besthack.newpage.xyz
         'smtp_host'     => 'ssl://smtp.mail.ru',  //Адрес почтового сервера  
         'smtp_password' => 'pass',                //Пароль от почтового ящика  
 	);  
-  
+
+## [Панель управления](https://besthack.newpage.xyz/admin) 
+ Панель управления полностью работает, но не доделан графический интефейс
+ 
+## [API для ajax](https://besthack.newpage.xyz/ajax_test)
+Для тестирования
