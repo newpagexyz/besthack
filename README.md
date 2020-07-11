@@ -1,5 +1,5 @@
 # besthack
-
+## BESTHACK 2020
 ## Исходный код [сайта](http://github.com) 
 
 https://besthack.newpage.xyz
